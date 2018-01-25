@@ -1,10 +1,19 @@
 # I've joined the #100DaysOfCode Challenge.
 
+For the next 100 days I will code and design something new everyday. 
+The project goal is not only to become familiar with html/css/js but also to maintain my design abilities.
+
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+
+
+
+
+---
 
 ## If you've decided to join:
 0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect 
