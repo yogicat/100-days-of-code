@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 2
+
+**Today's Progress**
+clone `<form>` element from [Airbnb](https://www.airbnb.com)
+
+
+**Link to work**
+[Codepen](https://codepen.io/yogicat/pen/VyoPpx)
+
+---
 
 ## Day 1: 02-25, Thursday
 
