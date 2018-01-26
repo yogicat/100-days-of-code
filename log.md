@@ -6,6 +6,10 @@
 clone `<form>` element from [Airbnb](https://www.airbnb.com)
 
 
+**Thoughts** 
+I had a very short amount of time to get today's work done, but since I've decided to commit I tried my best to get it done.
+I was surprised by how focused I was. 
+
 **Link to work**
 [Codepen](https://codepen.io/yogicat/pen/VyoPpx)
 
