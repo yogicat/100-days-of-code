@@ -1,9 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 3
+
+**Today's Progress**
+
+**clone project** : clone subscription form from [The Intercept](https://theintercept.com/)
+
+
+**Thoughts** 
+Getting to know the forms now.I used to think that the form is just a box with a text input on it and I was WRONG.There are so many types and attributes. I hope to make fully functioning form page one day.
+
+I should try more SASS and JS from now on.
+
+**Link to work**
+[codepen link](https://codepen.io/yogicat/full/oEvgaR)
+
+
+---
+
 ### Day 2
 
 **Today's Progress**
-clone `<form>` element from [Airbnb](https://www.airbnb.com)
+**clone project** clone `<form>` element from [Airbnb](https://www.airbnb.com)
 
 
 **Thoughts** 
@@ -18,7 +36,7 @@ I was surprised by how focused I was.
 ## Day 1: 02-25, Thursday
 
 **Today's Progress**
-Studied `<form>` element and made simple signin page.Inspired by [Virgin America Airlines](https://www.virginamerica.com)
+**clone project**  Studied `<form>` element and made simple signin page.Inspired by [Virgin America Airlines](https://www.virginamerica.com)
 
 
 **Thoughts** 
