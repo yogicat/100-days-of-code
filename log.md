@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 3
+### Day 3: 01-27, Saturday
 
 **Today's Progress**
 
@@ -18,7 +18,7 @@ I should try more SASS and JS from now on.
 
 ---
 
-### Day 2
+### Day 2: 01-26, Friday
 
 **Today's Progress**
 **clone project** clone `<form>` element from [Airbnb](https://www.airbnb.com)
@@ -33,7 +33,7 @@ I was surprised by how focused I was.
 
 ---
 
-## Day 1: 02-25, Thursday
+## Day 1: 01-25, Thursday
 
 **Today's Progress**
 **clone project**  Studied `<form>` element and made simple signin page.Inspired by [Virgin America Airlines](https://www.virginamerica.com)
