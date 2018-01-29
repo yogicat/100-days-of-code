@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 5: 01-29, Monday
 
+**Today's Progress**
+
+**clone project** : clone subscription form from [OUIWILL](http://www.ouiwill.com/)
+
+
+**Thoughts** 
+Actually found some nice inspiration sources from awwwards.com!
+I added little css - animation when mouse hovers the button.
+hope to try more animations and also little bit of js this week!
+
+
+**Link to work**
+[codepen link](https://codepen.io/yogicat/full/LQYxaz/)
+
+---
 
 ### Day 4: 01-28, Sunday
 
@@ -10,7 +26,9 @@
 
 
 **Thoughts** 
-I spent so many hours just thinking about what I want to make.
+I spent so many hours just thinking about what I want to make. 
+I should have a proper plan beforehand even if it's just a practice.
+So I ended up making simple mail form. But it was definitely better than not doing anything at all.
 
 
 **Link to work**
