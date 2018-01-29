@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+
+
+### Day 4: 01-28, Sunday
+
+**Today's Progress**
+
+**clone project** : clone subscription form from [VICE](https://www.vice.com/en_us)
+
+
+**Thoughts** 
+I spent so many hours just thinking about what I want to make.
+
+
+**Link to work**
+[codepen link](https://codepen.io/yogicat/full/yvBwvL/)
+
+
+
+---
+
 ### Day 3: 01-27, Saturday
 
 **Today's Progress**
